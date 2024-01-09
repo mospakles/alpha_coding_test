@@ -8,7 +8,7 @@
             </div>
 
             <button @click="loginWithGoogle"
-                class="w-full py-2 mt-6 font-medium text-[#2A2F9A] rounded border-2 border-[#2A2F9A] focus:outline-none focus:shadow-outline-blue hover:bg-gray-200 flex items-center justify-center gap-3 p-4">
+                class="w-full py-2 mt-6 font-medium text-[#2A2F9A] rounded border-2 border-[#2A2F9A] focus:outline-none focus:shadow-outline-blue hover:bg-gray-200 flex items-center justify-center gap-3 p-4 cursor-pointer">
                 Login with Google
                 <i class="fa-brands fa-google"></i>
             </button>
@@ -21,7 +21,7 @@
             </div>
 
             <button @click="continueWithEmail"
-                class="w-full mt-6 py-2 bg-[#2A2F9A] rounded-sm text-white focus:outline-none focus:shadow-outline-blue hover:bg-blue-700">
+                class="w-full mt-6 py-2 bg-[#2A2F9A] rounded-md text-white focus:outline-none focus:shadow-outline-blue hover:bg-blue-700 cursor-pointer">
                 Continue
             </button>
 

@@ -3,7 +3,7 @@
         <nav class="p-4">
             <div class="flex items-center justify-between">
                 <div class="flex items-center">
-                    <img src="@/assets/alphalogo.png" alt="Logo" class="w-24 h-8 mr-2">
+                    <img src="@/assets/alphalogo.png" alt="Logo" class="w-24 h-8 md:ml-20">
                 </div>
                 <div class="hidden md:flex space-x-4">
    
