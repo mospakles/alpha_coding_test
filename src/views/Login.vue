@@ -1,6 +1,6 @@
 <template>
+    <Navbar />
     <div class="min-h-screen flex items-center justify-center bg-gray-100 p-5">
-        <Navbar />
         <div class="w-full max-w-md">
             <div class="text-center">
                 <h2 class="text-2xl font-extrabold text-[#121441] tracking-wide">Welcome back</h2>
